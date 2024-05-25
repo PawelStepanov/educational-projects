@@ -16,3 +16,4 @@
 | 7.   | [Исследование данных магазина для увеличения покупательской активности](research_market) | Разработать модель, чтобы удерживать активность постоянных клиентов| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *phik*, *shap* |
 | 8.   | [Исследование данных магазина для HR-аналитики](hr_research) | Помочь бизнесу оптимизировать управление персоналом| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *scipy*, *phik* |
 | 9.   | [Выбор локации для скважины](research_choos_location_well) | Решить, где бурить скважину для добывающей компании «ГлавРосГосНефть»| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *scipy*, *phik* |
+| 10.   | [Предсказание стоимости жилья](research_housing_cost) | Обучить модель линейной регрессии на данных о жилье в Калифорнии в 1990 году.| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *pyspark*, *phik* |
