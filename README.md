@@ -17,3 +17,4 @@
 | 8.   | [Исследование данных магазина для HR-аналитики](hr_research) | Помочь бизнесу оптимизировать управление персоналом| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *scipy*, *phik* |
 | 9.   | [Выбор локации для скважины](research_choos_location_well) | Решить, где бурить скважину для добывающей компании «ГлавРосГосНефть»| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *scipy*, *phik* |
 | 10.   | [Предсказание стоимости жилья](research_housing_cost) | Обучить модель линейной регрессии на данных о жилье в Калифорнии в 1990 году.| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *pyspark*, *phik* |
+| 11.   | [Предсказание стоимости автомобиля](auto_project) | Построить модель для определения стоимости автомобиля. Необходимо учесть условия, которые важны для заказчика| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy*, *lightgbm*, *sklearn*, *phik*, *missingno* |
