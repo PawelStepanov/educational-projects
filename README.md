@@ -12,7 +12,7 @@
 | 3.   | [Исследование объявлений о продаже квартир](research_advertisements_sale_apartments) | Нужно установить параметры, влияющие на цену объектов. | *os*, *pandas*, *matplotlib*, *seaborn* |
 | 4.   | [Исследование данных о российском кинопрокате](study_of_russian_film_distribution) | Выявить текущие тренды российского кинопроката. | *os*, *pandas*, *matplotlib*, *seaborn* |
 | 5.   | [Исследование данных об аренде самокатов](scooter_rental_research) | Проанализировать данные и проверить гипотезы, которые могут помочь бизнесу вырасти| *os*, *pandas*, *matplotlib*, *seaborn*, *scipy*, *numpy* |
-| 6.   | [Исследование данных ферма для покупок берёнок](farmer_cow_purchases) | Разработать модель машинного обучения, которая поможет принять выбор о покупке коров| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy*, *sklearn*, *phik* |
+| 6.   | [Исследование данных фермера для покупок берёнок](farmer_cow_purchases) | Разработать модель машинного обучения, которая поможет принять выбор о покупке коров| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy*, *sklearn*, *phik* |
 | 7.   | [Исследование данных магазина для увеличения покупательской активности](research_market) | Разработать модель, чтобы удерживать активность постоянных клиентов| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *phik*, *shap* |
 | 8.   | [Исследование данных магазина для HR-аналитики](hr_research) | Помочь бизнесу оптимизировать управление персоналом| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *scipy*, *phik* |
 | 9.   | [Выбор локации для скважины](research_choos_location_well) | Решить, где бурить скважину для добывающей компании «ГлавРосГосНефть»| *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*, *scipy*, *phik* |
