@@ -22,3 +22,4 @@
 | 13.   | [Разработка системы предупреждения аварий на каршеринге](accident_warning) | Построить систему предупреждения о ДТП по выбранному маршруту движения| *pandas*, *sqlalchemy*, *matplotlib*, *seaborn*, *numpy*, *scipy*, *sklearn*, *lightbm*, *phik* |
 | 14.   | [Прогнозирование заказов такси](taxi_project) | Построить модель для предсказания заказов такси на следующий час | *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *statsmodels*, *sklearn*, *lightbm* |
 | 15.   | [Проект для «Викишоп»](wikishop_project) | Построить модель, которая будет искать токсичные комментарии и отправлять их на модерацию | *os*, *re*, *pandas*, *numpy*, *sklearn*, *Pytorch*, *nltk*, *transformers*, *lightbm* |
+| 16.   | [Разработка системы компьютерного зрения для обработки фотографий](face_project) | Построить модель, которая по фотографии определит приблизительный возраст человека | *os*, *pandas*, *numpy*, *seaborn*, *matplotlib*, *scipy*, *keras* |
