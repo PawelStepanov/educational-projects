@@ -23,3 +23,4 @@
 | 14.   | [Прогнозирование заказов такси](taxi_project) | Построить модель для предсказания заказов такси на следующий час | *os*, *pandas*, *matplotlib*, *seaborn*, *numpy*, *statsmodels*, *sklearn*, *lightbm* |
 | 15.   | [Проект для «Викишоп»](wikishop_project) | Построить модель, которая будет искать токсичные комментарии и отправлять их на модерацию | *os*, *re*, *pandas*, *numpy*, *sklearn*, *Pytorch*, *nltk*, *transformers*, *lightbm* |
 | 16.   | [Разработка системы компьютерного зрения для обработки фотографий](face_project) | Построить модель, которая по фотографии определит приблизительный возраст человека | *os*, *pandas*, *numpy*, *seaborn*, *matplotlib*, *scipy*, *keras* |
+| 17.   | [Поиск по изображениям](research_img) | Разработать демонстрационную версию поиска изображений по запросу | *os*, *re*, *pandas*, *numpy*, *matplotlib*, *sklearn*, *PyTorch*, *torchvision*, *transformers*, *Image*, *SentenceTransformer* |
