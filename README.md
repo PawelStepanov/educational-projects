@@ -24,3 +24,4 @@
 | 15.   | [Проект для «Викишоп»](wikishop_project) | Построить модель, которая будет искать токсичные комментарии и отправлять их на модерацию | *os*, *re*, *pandas*, *numpy*, *sklearn*, *Pytorch*, *nltk*, *transformers*, *lightbm* |
 | 16.   | [Разработка системы компьютерного зрения для обработки фотографий](face_project) | Построить модель, которая по фотографии определит приблизительный возраст человека | *os*, *pandas*, *numpy*, *seaborn*, *matplotlib*, *scipy*, *keras* |
 | 17.   | [Поиск по изображениям](research_img) | Разработать демонстрационную версию поиска изображений по запросу | *os*, *re*, *pandas*, *numpy*, *matplotlib*, *sklearn*, *PyTorch*, *torchvision*, *transformers*, *Image*, *SentenceTransformer* |
+| 18.   | [Контроль температуры сплава](temperature_splash) | Построить модель, которая будет предсказывать температуру сплава | *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *PyTorch*, *scipy*, *lightgbm*, *sqlalchemy*, *phik* |
